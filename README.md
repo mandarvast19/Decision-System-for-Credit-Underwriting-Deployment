@@ -11,6 +11,7 @@
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/42676839/133925876-61538648-2af3-4361-99b5-8a9769283301.png"><br><br>
 <img src="https://user-images.githubusercontent.com/42676839/133927015-96efd61d-99a8-43b2-8a62-ac703002fbaf.png">
+<img src="https://user-images.githubusercontent.com/42676839/133935700-487472df-500d-483a-ab52-d39bcd4cf043.png">
 
 ## Demo Link
 https://credit-underwriting.herokuapp.com/
