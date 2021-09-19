@@ -42,7 +42,7 @@ def predict():
        -1.13711806, -1.36685867]])
        
         to_scale[0,1]=float(credit)
-        to_scale[0,1]=float(income)
+        to_scale[0,0]=float(income)
         to_scale[0,3]=float(goods)
         to_scale[0,5]=float(age)
         to_scale[0,10]=float(ext_score)
@@ -50,7 +50,7 @@ def predict():
         to_scale = scaler.transform(to_scale)
 
         credit = to_scale[0,1]
-        income = to_scale[0,1]
+        income = to_scale[0,0]
         goods = to_scale[0,3]
         age = to_scale[0,5]
         ext_score = to_scale[0,10]
